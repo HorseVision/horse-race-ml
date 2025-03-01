@@ -1,0 +1,40 @@
+{
+    "model_name": "random_forest_20250301_1118",
+    "timestamp": "2025-03-01 11:18:56",
+    "accuracy": 0.9945607522137359,
+    "precision_class1": 0.998670273740199,
+    "recall_class1": 0.9947930939983557,
+    "f1_class1": 0.996727913415555,
+    "hyperparameters": {
+        "bootstrap": true,
+        "ccp_alpha": 0.0,
+        "class_weight": null,
+        "criterion": "gini",
+        "max_depth": 10,
+        "max_features": "sqrt",
+        "max_leaf_nodes": null,
+        "max_samples": null,
+        "min_impurity_decrease": 0.0,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5,
+        "min_weight_fraction_leaf": 0.0,
+        "n_estimators": 100,
+        "n_jobs": -1,
+        "oob_score": false,
+        "random_state": 42,
+        "verbose": 0,
+        "warm_start": false
+    },
+    "feature_importance": {
+        "cotedirect": 0.699467299720505,
+        "pays": 0.14137267685541402,
+        "temperature": 0.033840985256562935,
+        "forceVent": 0.025086103505582213,
+        "dist": 0.020814299231555804,
+        "coursesentraineur": 0.013473748216130094,
+        "victoiresjockey": 0.01244742435174287,
+        "corde": 0.011662268734926646,
+        "coursesjockey": 0.010736293204267484,
+        "victoiresentraineur": 0.006543258547527397
+    }
+}

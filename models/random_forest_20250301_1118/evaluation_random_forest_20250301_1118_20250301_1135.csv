@@ -1,0 +1,501 @@
+date,hippo,course,cheval,jockey,cote,probabilite_top3,prediction,realite
+2014-02-09,Mauquenchy,18,Tosca du Châtelet,C. Jouenne,45.0,0.2562931662880682,0,0
+2020-02-21,Doha - Al Rayyan,12,On The Front Line,R. Thomas,0.0,0.9997086384492095,1,1
+2017-12-08,Kalmar,10,Hamilton Noa,M. Waldmüller,0.0,0.9999578680818711,1,1
+2019-09-16,Turin,7,Zalix Pizz,S. Ciraso,0.0,0.9999305948598365,1,1
+2018-10-13,Aby,11,Primus Altero,Mme H. Ehn,0.0,0.9999913643780731,1,0
+2021-10-26,Kuurne,11,Happy End,W. Bogaert,0.0,0.9424689938890096,1,0
+2023-09-02,Lalla Malika,15,EID,MJ. JBILOU,0.0,0.9999989811075121,1,0
+2021-09-16,Mons,11,Ainhoa Damili,Mlle ER. Weissmeier,0.0,0.9750151669588354,1,1
+2014-07-06,Trévise,7,Lando Correvo,G. Lombardo Jr,0.0,0.999990382604786,1,1
+2019-05-30,Le Lion-d'Angers,14,Barhein,S. Saadi,8.5,0.12369654209631138,0,0
+2019-07-10,Kempton,7,Roman Spinner,S. Cherchi,0.0,0.9999076841902399,1,0
+2017-07-30,Pompadour,11,Bien A Lagrimodie,T. Speicher,0.0,0.9509904750823998,1,0
+2020-10-01,Nykobing F,12,Chic Summer,R. Jonassen,0.0,0.9999827600248924,1,1
+2018-07-13,Casablanca,16,Bent Ghazala,A. Sanad,0.0,0.9999983038384065,1,0
+2023-08-29,Romme,11,Fridas Moon Walker,E. Lindegren,0.0,0.9937319481564227,1,0
+2014-04-06,Villedieu-les-Poêles,13,Voyou de la Crière,D. Bonne,0.0,0.9858635588365631,1,0
+2019-03-22,Naples,13,Vasco Mede Sm,S. Barretta,0.0,0.9999821039230053,1,0
+2022-10-28,Uttoxeter,11,Santos Blue,L. Williams,0.0,0.9999740108922057,1,0
+2017-08-11,Clairefontaine,15,La Valentine,F. Veron,57.0,0.1262278439532909,0,0
+2020-12-08,Bjerke,9,Kolbu Kæsj,AH. Stensen,0.0,0.9998408540496587,1,0
+2019-09-28,Hyères,12,Eronie Montaval,Mlle L. Decottignies,0.0,0.9908119564569279,1,0
+2022-08-09,Nottingham,8,Red Fort,D. O'Neill,0.0,0.999857653373183,1,0
+2023-05-29,Valparaiso,10,La Voladora,B. Sancho Escalante,0.0,0.9808173123258992,1,0
+2020-09-24,Foggia - Castelluccio Dei Sauri,9,Selvaggia Nera,I. Fierro,0.0,0.9999143844658184,1,0
+2023-12-08,Bollnas,7,Uriel R.B.,P. Eriksson,0.0,0.9997183870528142,1,1
+2019-08-01,Vaal,10,Our Biscuit,S. Brown,0.0,0.9986300702345219,1,0
+2018-10-06,Aby,11,Notre Avenue,Mme H. Larsen,0.0,0.9999534882713615,1,1
+2022-10-11,Paris-Vincennes,15,Horsy Royal,M. Mottier,25.0,0.04768678334012425,0,0
+2021-02-18,Gulfstream Park,7,Call Curt,J. Alvarado,0.0,0.9998009446271225,1,1
+2021-10-25,Strasbourg,18,First du Fossé,M. Verva,42.0,0.04008417765657676,0,0
+2021-07-20,Vichy,14,Emotive,A. Orani,21.0,0.07001779835813265,0,0
+2022-06-05,Châteaubriant,12,Hiroise du Parjat,J. Poutrel,19.0,0.12449122353893774,0,0
+2023-09-20,Kelso,7,The Big Jetaway,T. Gillard,0.0,0.9999669468727889,1,1
+2018-07-13,Villedieu-les-Poêles,18,Ego d'Occagnes,M. Yvon,0.0,0.9936423237766914,1,0
+2015-05-03,Castelsarrasin,13,Utalia de Marcay,F. Clozier,8.6,0.07499601224976352,0,1
+2023-10-08,Durtal,14,Kriss Love,JP. Dubois,0.0,0.9674273252501717,1,1
+2022-09-02,Kilbeggan,14,Remembergenteljack,DJ. O'Keeffe,0.0,0.9999763263423249,1,0
+2018-06-10,Dielsdorf,11,Attique,Mme M. Burgin,0.0,0.9999714403608739,1,0
+2019-11-25,Khemisset,12,Next Time,O. Laarim,0.0,0.9999682341913595,1,0
+2017-12-29,Fairview,11,Fleet of Foot,R. Khathi,0.0,0.9984085725652544,1,0
+2020-11-11,Nîmes,7,Mémoire d'Afrique,T. Dumouch,0.0,0.9681253800875317,1,1
+2021-03-09,Exeter,15,Zeyzoun,C. Deutsch,0.0,0.9988471578475235,1,0
+2014-11-15,Sandown,8,Rawnaq,M. Walker,0.0,0.9999572669005319,1,0
+2016-01-19,Mons,12,Armoise,M. Bizoux,72.0,0.10300692419300622,0,0
+2018-06-16,Agen,17,Bingo d'Attaque,R. Lacroix,87.0,0.13259935445863863,0,0
+2023-05-01,Baléares - Mao,11,Heura de Flo,O. Mata Segui,0.0,0.9999697770338389,1,0
+2020-08-09,Curragh,9,Back To Brussels,C. Hayes,0.0,0.9998460240465142,1,0
+2017-08-14,Windsor,8,Toulson,C. Bishop,0.0,0.9999040265616965,1,0
+2020-12-03,Jarlsberg,11,Bright Memphis,A. Tengsareid,0.0,0.9996387491468403,1,1
+2020-02-25,Mont-de-Marsan,12,Tacchi a Spillo,Mlle M. Meyer,16.0,0.1346203805275212,0,0
+2021-11-24,Le Mans,18,High Fire Dairpet,B. Marie,64.0,0.03272056806717988,0,0
+2015-07-19,Graignes,13,Cacimba,C. Clin,22.0,0.10250301104333392,0,0
+2023-11-26,Auteuil,8,Galaxie d'Ainay,O. Jouin,5.5,0.0458363325081858,0,1
+2017-06-05,Durtal,17,Dennsia Danica,M. Mottier,0.0,0.9650460298536838,1,0
+2020-08-08,Vichy,10,High Impact,C. Stéfan,10.0,0.16941049302103417,0,1
+2021-10-13,Turin,6,Cis Dell'Olmo,HE. Bondo,0.0,0.9998709277387718,1,0
+2021-06-23,Worcester,7,Elios d'Or,B. Carver,0.0,0.9999431701069103,1,1
+2016-04-22,Fontainebleau,14,Fripone,O. Peslier,7.0,0.21965884458002338,0,0
+2023-03-12,Nancy,12,Insolvable,JM. Guénon,0.0,0.9782164037954314,1,0
+2022-03-27,Morlaix,8,Oklandy,M. Cypria,0.0,0.9732096176549235,1,0
+2016-08-11,Carentan,15,Vinci du Chatault,T. Duvaldestin,0.0,0.9765921427086706,1,0
+2018-07-01,Luçon,13,Darling Lady,C. Bouteiller,0.0,0.9940018210661303,1,1
+2023-09-16,Chantilly,8,Dawn Charger,PL. Jamin,5.4,0.08740200524950544,0,1
+2016-01-06,Marseille-Vivaux,14,Célina Béré,S. Maillot,23.0,0.10083852874145281,0,0
+2018-07-06,Arvika,10,Castanya Am,M. Jakobsson,0.0,0.9998804876588921,1,1
+2017-12-14,Toulouse,8,Guitar,Mlle A. Mérou,40.0,0.1119205121803703,0,0
+2021-10-13,Solvalla,8,Perpetuate,P. Lennartsson,0.0,0.9874568701822776,1,1
+2017-01-09,Marseille-Vivaux,16,Baraka de Belfond,P. Gesret,55.0,0.15248356533741503,0,0
+2021-11-25,Lyon-La Soie,9,Féedesrêves,Mlle M. Vélon,10.0,0.06669689779764966,0,0
+2017-12-30,Romme,12,Simb Murdoch,M. Eriksson,0.0,0.9995570366820975,1,1
+2023-03-28,Son Pardo - Majorque,12,Kambalaya Bj,J. Forteza Riera,0.0,0.9784797302113355,1,0
+2023-04-29,Saarbrücken,8,Sweet Saturday,L. Wolff,0.0,0.9902016492597546,1,0
+2022-07-06,Hooksiel,7,Johanna Baldwin,T. Reber,0.0,0.9999612809980821,1,1
+2020-03-01,Naples,15,Bonera Jet,G. D'Alessandro Jr,0.0,0.9999358254117736,1,0
+2017-10-16,Cabourg,16,Disco de Djoon,Mlle A. Brouel,101.0,0.10635184536826638,0,0
+2017-10-25,Marseille-Borély,13,Dryade des Forêts,A. Tomaselli,0.0,0.9848151831860412,1,0
+2016-01-24,Lyon-La Soie,16,Cordarone,L. Lamazière,30.0,0.11588864422567616,0,0
+2018-01-25,Albenga,7,Vettel Esd,G. Di Fede,0.0,0.9999753291373565,1,0
+2023-11-28,Khemisset,9,HOPE ZEMMOUR,AM. MOUGHAT,0.0,0.9985645717767042,1,0
+2019-11-25,Oulu,11,Vie de Dream,T. Pakkanen,0.0,0.9999072278780348,1,0
+2018-09-30,Paray-le-Monial,9,Etoile de Prairie,E. Métivier,0.0,0.9914546851837932,1,0
+2021-01-18,Ayr,7,Buddha Scheme,B. Campbell,0.0,0.9999670603111163,1,1
+2023-09-08,Romme,10,Borkvinn S.K.,O. Kylin-Blom,0.0,0.9908047235290269,1,1
+2022-06-24,Pontecagnano,10,Brivido Jet,A. Finetti,0.0,0.999947975626408,1,0
+2018-08-27,Cosma & Damiano,11,Tornado del Pino,V. D'Alessandro Jr,0.0,0.9999477981094759,1,1
+2019-06-22,Syracuse,6,Special Rush,G. Gentilesca,0.0,0.9999180317667086,1,1
+2023-03-25,Mont-de-Marsan,11,Waad,A. Gutierrez Val,24.0,0.04700654218430501,0,0
+2017-11-15,Exeter,4,Briery Queen,L. Aspell,0.0,0.9992059648682602,1,1
+2014-06-06,Goodwood,11,Muhawalah,D. O'Neill,0.0,0.9958246097614577,1,0
+2021-09-25,Solvalla,11,Allagash Nancy,K. Haugstad,0.0,0.9917189296939344,1,0
+2015-06-27,Khemisset,10,Dokala,K. Raji,0.0,0.9999797146229489,1,1
+2018-08-23,York,15,Summer Icon,S. Mc Cullagh,53.0,0.23036826925036344,0,0
+2021-05-06,Romme,12,Stilig Karl,J. Kontio,0.0,0.9991452232512369,1,0
+2023-11-22,Wolverhampton,9,Rocket Rodney,C. Shepherd,0.0,0.9999332199354676,1,0
+2017-04-02,Naples,10,Ubaldo Many,G. Amitrano,0.0,0.9999930946907925,1,0
+2018-12-07,Oulu,7,Arctic Hurricane,P. Koivurova,0.0,0.9999909540506623,1,0
+2014-12-23,Bjerke,12,Golden Feline,B. Westergaard,0.0,0.9996558575275073,1,1
+2017-07-22,Varese,9,Clerke,W. Gambarota,0.0,0.9999902574421131,1,0
+2016-12-31,Aversa,11,Ungaro,V. D'Alessandro Jr,0.0,0.9999421090844629,1,0
+2016-12-03,Aintree,9,Byron Flyer,T. Wheeler,0.0,0.999952170330527,1,0
+2018-12-09,Kuurne,6,Koko Matic,G. Loix,0.0,0.998766352780183,1,0
+2021-09-20,Pontecagnano,8,Alvin Dei Daltri,F. Iaccarino,0.0,0.999969364997894,1,0
+2020-01-04,Chile,15,Angel Malo,G. Acevedo Espinoza,0.0,0.9866929236348798,1,0
+2018-09-18,Pescara (San Giovanni),5,Vasty Di Poggio,M. Barbini,0.0,0.9998367295066776,1,1
+2017-09-03,Ploërmel,14,Vazirissimo,L. Aubé,0.0,0.9760388069941495,1,0
+2021-11-11,Lyon-La Soie,12,Eva Angano,A. Legrand,63.0,0.15503422568804065,0,0
+2021-10-08,Naples,17,Chimera Caf,R. Forino,0.0,0.9999317714299353,1,0
+2021-08-09,Bréhal,12,Gabriella Sport,B. Marie,0.0,0.9535060026650244,1,0
+2017-06-05,Arjang,10,Edindy,K. Lindberg,0.0,0.9999947655997994,1,0
+2022-10-08,Nancy,11,Perfect Liaison,E. Verhestraeten,22.0,0.04100560790452372,0,0
+2021-05-30,Waregem,12,Ainhoa Nordjanie,G. Sanchez,0.0,0.9991846499114146,1,0
+2021-10-17,Niort,14,Spirit of Dance,Mlle M. Romary,0.0,0.9587396345396538,1,0
+2023-11-18,Laval,16,Hay Pepito,JM. Jarry,113.0,0.08635130266309016,0,0
+2022-02-10,Wolvega,11,Born To Run,T. Kooyman,67.0,0.13401022715885363,0,0
+2018-03-04,Baléares - Manacor,7,Deco Sas,J. Riera Sitges,0.0,0.9999955500064727,1,1
+2018-08-10,Umaker,12,Let's Dance L.A.,Mme G. Fredriksson,0.0,0.9999788753157148,1,0
+2016-09-10,Leopardstown,12,Highland Reel,C. O'Donoghue,13.0,0.4298698434227715,0,0
+2021-09-30,Chelmsford,7,Eternal Love,R. Hornby,0.0,0.9998970750583791,1,0
+2018-03-09,Ayr,7,Gibbstown,A. Short,0.0,0.9999709185634947,1,0
+2017-06-10,Visby,8,Noomi,A. Funck,0.0,0.9999863070983281,1,1
+2019-10-28,Marseille-Borély,11,Makalia,G. Millet,10.0,0.09268423195228483,0,0
+2019-11-07,Lyon-La Soie,15,Charly,L. Boisseau,3.8,0.12457487920398211,0,1
+2019-08-26,Cazaubon Barbotan-les-Thermes,9,La Bloutière,G. Trolley de Prevaux,1.5,0.9565097698562118,1,1
+2022-10-21,Bollnas,12,Guli Tiger,Mme E. Eriksson,0.0,0.9988243170055016,1,0
+2023-11-01,Lyon-La Soie,12,Jalencia Bella,G. Fournigault,0.0,0.9827447849326874,1,0
+2015-03-22,Auteuil,9,Alary,R. Schmidlin,29.0,0.1050681077436768,0,0
+2022-07-14,Clairefontaine,16,Hariko,M. Bézier,29.0,0.08476376010307542,0,0
+2020-07-10,Casablanca,13,Elysees Dansante,W. Madihi,0.0,0.9999707983024044,1,0
+2019-06-30,Abbeville,14,Flash de Mormal,C. Nicole,0.0,0.9953177353283081,1,0
+2023-07-12,Fairyhouse,11,Ravelli,J. Kearney,0.0,0.9997433606904766,1,0
+2021-05-08,Gulfstream Park,9,Dreaming Thousand,E. Jaramillo,0.0,0.9860293102362199,1,0
+2018-12-27,Taranto,12,Torpe,E. Melis,0.0,0.9999990005957755,1,1
+2017-07-15,Cagnes-sur-Mer,15,Dorun Beam,T. Viet,11.0,0.11152074568214934,0,0
+2020-02-06,Aby,11,Mithril,A. Eklundh,0.0,0.9999575973647036,1,0
+2022-05-01,Newmarket,13,Ameynah,D. Egan,27.0,0.4962403421865557,0,0
+2018-08-04,Gavea,9,Or Noir,W. Cardoso,0.0,0.9978988907863404,1,0
+2022-09-11,Tingsryd,11,Makro Band,A. Knutsson,0.0,0.9986335440779368,1,1
+2021-03-21,Reims,13,Irrésistible Honey,M. Lenoir,48.0,0.1044131332692562,0,0
+2023-08-11,Anfa,14,HELSPEED FAL,TE. EL GARCH,0.0,0.9999913372668331,1,0
+2022-12-30,Deauville,13,Amandero,A. Pouchin,6.3,0.0331245602361574,0,0
+2016-06-17,Deauville,12,Takaran,M. Guyon,4.5,0.0927430859373625,0,0
+2021-04-11,Saint-Aubin-les-Elbeuf,16,Domino du Jour,R. Gougeon,0.0,0.9953173000848305,1,0
+2022-09-03,Jägersro,10,Restless Heart,Mme H. Larsen,0.0,0.9997972737119829,1,0
+2018-04-28,Milan,11,Larmor,Mme V. Tavazzani,0.0,0.9999730424417224,1,1
+2023-03-19,Khemisset,15,MOUMCHA,AE. ESSATI,0.0,0.9998604857955884,1,0
+2021-12-09,Warwick,8,Allavina,A. Coleman,0.0,0.9999666490388625,1,0
+2016-10-30,Mauquenchy,13,Chambord,A. Garandeau,0.0,0.9939561386610191,1,0
+2018-07-29,L'Isle-sur-La Sorgue,12,First de Nîmes,N. Julien,0.0,0.9915144598618031,1,0
+2022-04-11,Le Croisé-Laroche,12,Honora Ducale,A. Collette,16.0,0.05679326897293164,0,0
+2016-01-23,Dortmund,9,Ebeltoft,V. Schiergen,2.3,0.8358780182577609,1,1
+2021-06-28,Le Croisé-Laroche,10,Echec et Mat,R. Derieux,34.0,0.05333263717000496,0,0
+2018-08-14,Pornichet,14,Flamme Vive,P. Tijou,2.6,0.6887903193954876,1,1
+2023-03-16,Aby,8,Knight Moves,T. Uhrberg,0.0,0.9955263379664746,1,0
+2019-04-28,Reims,14,Feeling des Angles,C. Gillet,33.0,0.0847387588789471,0,0
+2015-04-05,Lisieux,18,Violette du Bois,V. Hébert,20.0,0.09264762803078258,0,0
+2014-09-09,Trieste,12,Palmarivatekihova,Mme C. Nardo,0.0,0.9999833909956165,1,1
+2023-09-28,Meknes,14,KAMEL SIDI HRAZEM,AB. BOUKHARSSA,0.0,0.9998271349017024,1,0
+2022-01-06,Aby,10,T.J.,C. Söderström,0.0,0.9998901044518967,1,0
+2017-10-01,Saint-Omer,12,Dragon du Bourg,A. Muidebled,0.0,0.9972003435911786,1,0
+2023-08-23,Tongres,9,Hold Up Pont Royal,N. Vervloet,6.2,0.09931385801096226,0,1
+2019-12-02,Leangen,10,Hr. Ford,Mme T. Kleveland,0.0,0.9995323612701357,1,0
+2015-05-03,Dielsdorf,10,Nightdance Paolo,C. Lheureux,0.0,0.9998669923894995,1,0
+2023-02-12,Vire,15,Kylebeau du Luot,G. Hérard,0.0,0.9888109846819728,1,0
+2020-03-09,Eskilstuna,14,Metallica I.R.,LA. Söderholm,0.0,0.9999916820367172,1,0
+2022-06-12,Bjerke,15,N.Y. Embrasse Moi,MT. Gundersen,0.0,0.9999632267799591,1,0
+2022-10-07,Compiègne,9,Barfleur,O. D' Andigné,6.0,0.04483951133967553,0,0
+2019-12-27,Wolverhampton,11,Angel Force,T. Ladd,0.0,0.99990938510867,1,0
+2015-11-07,Meknes,15,Fath Bs,Z. Madihi,0.0,0.9999411270795535,1,0
+2014-11-01,Durtal,14,Sundown Kar,Mlle M. Plat,0.0,0.9675025783890961,1,1
+2015-04-17,Marseille-Borély,12,Molesne Chop,F. Forési,11.0,0.10070053022567492,0,0
+2020-02-08,El Jadida,11,Wald Nass,A. Moughat,0.0,0.9999515393818418,1,1
+2021-09-19,Vire,14,Hautain,V. Lebarque,3.5,0.14514482282260827,0,1
+2016-05-20,Laval,16,Cobra Ar Carac,V. Gouin,11.0,0.08802377692828413,0,1
+2021-10-19,Avenches,8,Livi Ohio H M,M. Welti,29.0,0.03730257873543942,0,1
+2014-12-28,Deauville,16,Texas Spirit,E. Hardouin,32.0,0.11453534166297581,0,0
+2014-02-08,Cagnes-sur-Mer,13,Gloss,S. Pasquier,18.0,0.33314181732422127,0,0
+2021-06-01,Follonica,7,Aikidoka,F. Dettori,0.0,0.9999051494510758,1,1
+2017-03-12,Padoue,8,Parker Om,M. Basile,0.0,0.9999910299377741,1,0
+2018-05-03,Aby,10,My Little Sparrow,T. Uhrberg,0.0,0.9999876530151406,1,1
+2015-01-04,Baléares - Mao,7,Unça,JA. Gardes Montanes,0.0,0.9999677101885212,1,0
+2023-07-07,Lindesberg,13,Guldhagens Mary,T. Horpestad,0.0,0.9996826183918184,1,0
+2023-08-18,Bollnas,15,Haga Modde,H. Persson,0.0,0.9846396205387342,1,0
+2022-09-02,Fairview,6,Never Ending Rain,C. Habib,3.7,0.13054745146835647,0,1
+2023-10-26,Meknes,12,WARTESAL,AA. ARROMALI,0.0,0.9996703689451323,1,0
+2015-07-12,Chinon,16,Viking de l'Ormeau,H. Sionneau,0.0,0.9595881275069712,1,0
+2018-08-16,La Teste,7,Farnèse de Lagarde,I. Mendizabal,8.0,0.12434610174569466,0,1
+2017-07-31,Ostende,10,Foley Boko,T. De Rijker,0.0,0.9959394741523673,1,0
+2014-07-20,Bratislava,14,Cheeky Chappie,Mme Z. Vokalkova,0.0,0.9998678172646406,1,0
+2017-02-02,Albenga,9,Tre Stelle,E. Loccisano,0.0,0.9999752832518499,1,1
+2021-08-20,Musselburgh,6,Empirestateofmind,B. Garritty,0.0,0.9996722117483589,1,1
+2021-11-10,Saint-Cloud,13,Garrick Harmony,C. Lecoeuvre,9.5,0.02566470231021496,0,0
+2022-05-31,Eskilstuna,9,Mayha,K. Eriksson,0.0,0.999875618340844,1,1
+2017-11-06,Paris-Vincennes,7,Ecu Pierji,M. Mottier,1.7,0.8974577794893179,1,1
+2014-10-26,Sha Tin,14,California Memory,M. Chadwick,0.0,0.9999112539682848,1,0
+2021-08-04,Bro Park,9,Cr Tahfeem,Mme U. Holmquist,0.0,0.9842286828506004,1,0
+2023-11-04,Straubing,7,First Choice,Mme M. Bock,0.0,0.9655259195903781,1,0
+2016-09-06,Vire,16,Troll Thourjan,E. Nicolaysen,33.0,0.13190599051441304,0,0
+2018-08-23,Chepstow,10,Lady Aria,Mlle H. Turner,0.0,0.9999485362585304,1,1
+2014-06-08,Montauban,17,Ferrari Haleryd,Y. Jublot,0.0,0.9881241443491401,1,0
+2015-06-17,Ascot,20,Rosealee,F. Tylicki,41.0,0.6203435455985594,1,0
+2019-02-06,Pornichet,16,Santa Rock,Mlle M. Eon,16.0,0.11725234198993906,0,0
+2019-06-22,Ayr,14,Dragon Mountain,J. Sullivan,0.0,0.999769479705759,1,0
+2017-11-15,Marseille-Borély,16,Bulle de Laumont,S. Cingland,2.6,0.598431298612503,1,1
+2017-04-19,Fontainebleau,6,Oficial,D. Cottin (s),6.3,0.12652125406182296,0,0
+2017-04-21,Naples,14,Victor Dany Grif,S. Minopoli,0.0,0.9999794198558692,1,0
+2023-07-09,Montmirail,12,Jasmine du Vif,JC. Audran,0.0,0.9708776145783402,1,1
+2017-09-29,Haydock,11,Silvery Moon,D. Allan,0.0,0.9999616639299191,1,1
+2017-03-10,U.A.E - Al Ain,15,Call des Ages,Réserviste 3,0.0,0.9999926812083705,1,0
+2022-07-01,Bellewstown,13,Zerinda,D. Mc Monagle,0.0,0.9999832380489021,1,0
+2020-12-26,Rome,8,Caceres,D. Di Stefano,0.0,0.999955372919164,1,0
+2021-07-12,Bjerke,12,C.C.Eastside,O. Mikkelborg,41.0,0.19872557190829276,0,0
+2016-09-25,Solvalla,12,Greece Boko,J. Kontio,0.0,0.9999869840405126,1,0
+2022-04-11,Boden,13,Star Rose,P. Joki,0.0,0.9999773137765382,1,0
+2019-04-14,Nakayama,18,Nishino Daisy,M. Katsuura,0.0,0.9999926812083705,1,0
+2016-02-25,Meknes,8,Al Jasfi,T. Teouil,0.0,0.9999909182121722,1,0
+2019-02-04,Marseille-Vivaux,12,Jeremiade,Mlle C. Pacaut,3.3,0.3110940212783861,0,0
+2016-05-01,Sha Tin,12,Bow Creek,Z. Purton,77.0,0.5791776882387646,1,0
+2020-07-12,Ostersund,10,Fräcke Prins,ME. Djuse,0.0,0.9999333569448011,1,1
+2020-03-24,Clonmel,12,Lacken Bridge,R. Treacy,0.0,0.9998522179391284,1,0
+2021-04-18,Cologne,11,Rajguru,L. Wolff,2.5,0.5913767710926058,1,1
+2017-04-29,Naples,14,Tintoretto Grif,S. Mineo,0.0,0.9999332380443549,1,0
+2019-08-25,Beaumont-de-Lomagne,18,Damona la Binolais,N. Mathias,86.0,0.13702954795946576,0,0
+2017-12-08,Rome,8,Vain,A. Simioli,0.0,0.9998023202111326,1,0
+2023-01-08,U.A.E - Meydan,16,City King,O. Chavez,0.0,0.9988943171012413,1,0
+2014-06-08,Auteuil,16,Le Château,E. Chazelle,11.0,0.13740411678246917,0,0
+2017-12-10,Toulouse,13,Showtime Star,V. Seguy,5.3,0.2788661701437085,0,1
+2017-07-21,Cesena,8,Vlakteplaas Jbay,A. Di Nardo,0.0,0.9999364349849742,1,1
+2023-12-14,Paris-Vincennes,14,Lovely Chenevière,V. Saussaye,41.0,0.04405956964128196,0,0
+2019-03-27,Kempton,9,Bolt N Brown,Mlle J. Gordon,0.0,0.9996959590999126,1,1
+2018-07-15,Luçon,13,Comète de Glatigné,M. Fribault,0.0,0.9837639473763187,1,0
+2022-06-21,Sligo,9,Hands Down,J. Coen,0.0,0.9999572680395427,1,0
+2022-08-24,Baden,7,Rolando Venus,Mme N. Reisenbauer,18.0,0.10517189917796826,0,0
+2015-05-22,Casablanca,8,Vacationer,G. Rivases,2.1,0.9150728967867201,1,1
+2019-03-05,Axevalla,13,Sweet Boy,MA. Linderoth,0.0,0.999931444881859,1,1
+2023-02-08,Bjerke,9,Revenue Lavec,LA. Kolle,0.0,0.9864181591239918,1,0
+2015-10-06,Leicester,8,Shadow Rock,J. Fortune,8.3,0.5254727488590969,1,0
+2020-09-16,Solvalla,12,Muzzle The Yakker,P. Lennartsson,0.0,0.9999473624234172,1,0
+2018-02-14,Rome,13,Zara Jet,D. Battistini,0.0,0.9995770088888805,1,0
+2020-12-30,Paris-Vincennes,14,Feria du Metz,E. Clozier,75.0,0.09435157349429976,0,1
+2020-07-24,Cork,13,Annie G,D. Roche,0.0,0.9999367044036497,1,0
+2015-10-11,Toulouse,15,Tando Barbés,F. Marty,112.0,0.09531557101884106,0,0
+2020-11-15,Gavea,7,Capitao Barbosa,H. Fernandes,0.0,0.9945318225883071,1,0
+2023-01-15,Baléares - Mao,9,Falucho M,O. Mata Segui,0.0,0.9999544631513841,1,0
+2014-06-15,Merano,8,Mazhilis,J. Vana Jr,0.0,0.9999817604698871,1,1
+2023-02-05,Sha Tin,14,Invincible Missile,H. Bentley,92.0,0.8356257509507463,1,0
+2023-01-16,Hereford,10,Cilaos Glace,T. Cannon,0.0,0.9999113406005534,1,0
+2018-12-31,Bjerke,12,Finnskog Lux,H. Kulblik,0.0,0.9998817669830128,1,1
+2021-01-24,Lingfield,6,Genuine Approval,A. Kirby,0.0,0.9999850106924478,1,0
+2021-01-13,Toulouse,10,Héroïne d'Em,V. Saussaye,42.0,0.0854979978295857,0,0
+2022-05-07,Rome,9,Abracadabra Effe,M. Minopoli Jr,0.0,0.9999361672062977,1,1
+2014-09-07,Craon,18,Riquewihr,Y. Dreux,50.0,0.11132750545753925,0,0
+2017-07-23,Montier-en-Der,12,Elitist Game,E. Devenne,0.0,0.9966406812110925,1,0
+2021-01-24,Baléares - Mao,8,United Kingdom,DI. Bosch Moll,0.0,0.9999899298231619,1,0
+2014-12-01,Paris-Vincennes,13,Bere Novo,Mlle M. Grolier,73.0,0.08243300030097349,0,0
+2017-05-07,Madrid,12,Gamelin,R. Sousa Ferreira,0.0,0.9999826728728191,1,0
+2019-10-20,Laon,12,Forcing du Cap,J. Koubiche,0.0,0.9924546769466908,1,0
+2016-09-04,Landivisiau,17,Ustou,JP. Thomain,0.0,0.9839736706299262,1,0
+2018-09-17,Gavle,10,Kolnes Germa,Mme L. Sundell,0.0,0.999956521335869,1,0
+2017-08-16,Emmeloord,9,Hurricane Bb,F. Vdr Blonk,0.0,0.999945155033209,1,0
+2020-11-25,Deauville,16,Martine Bow,S. Martino,89.0,0.12392598144105113,0,0
+2018-07-13,Charlottenlund,8,Vesuv,M. Appelt Nielsen,0.0,0.9999346471412066,1,0
+2016-07-12,Biarritz,13,Bella de Vive,E. Audebert,5.6,0.08650389421514618,0,1
+2016-11-05,Doncaster,7,Kimberella,A. Atzeni,0.0,0.9999346125063263,1,1
+2019-10-27,Grenade-sur-Garonne,15,Cybèle de Mai,R. Sarda,0.0,0.9821231603524884,1,0
+2022-05-07,Hexham,9,Victory Echo,CA. O'Farrell,0.0,0.9999698144192736,1,0
+2017-11-19,Amiens,14,Dragster Sarjo,JJ. Lepennetier,10.0,0.08843864769700989,0,0
+2017-08-13,Berlin-Hoppegarten,11,Sarisha,M. Cadeddu,0.0,0.9988429385415586,1,0
+2020-08-02,Newcastle,9,Gold Ribbon,PJ. Mc Donald,0.0,0.999890702385314,1,0
+2019-12-16,Taranto,12,Seven,R. Tamburrano,0.0,0.9999645148201602,1,0
+2022-08-07,Sainte-Marie-du-Mont,10,Furious Elde,PY. Gouin,3.3,0.1927741769418953,0,1
+2020-11-17,Axevalla,12,Pim Pim Joli,O. Svanberg,0.0,0.9998900197259758,1,0
+2021-10-03,Nîmes,6,Mister Bint,A. Beaudoire,0.0,0.9694266961376627,1,1
+2021-05-29,Palerme,14,Calamity Jane,A. Di Chiara,0.0,0.9999929954014414,1,0
+2023-09-15,Khemisset,13,AYADI,MS. SANAD,0.0,0.9997043874273913,1,1
+2018-04-28,Mariehamn,9,Arctic Don,B. Carlsson,0.0,0.9999914896580485,1,1
+2022-11-11,Cheltenham,7,Hubrisko,P. Townend,0.0,0.985742671734813,1,0
+2020-06-12,Newbury,7,Mr Trick,R. Moore,0.0,0.999900125159973,1,0
+2022-01-01,Gelsenkirchen,7,Jesican,Mme M. Mellies,0.0,0.9782172613225834,1,1
+2019-02-05,Florence,9,Zimmer Grif,M. Matteini,0.0,0.9999541269500891,1,0
+2023-01-17,Clonmel,10,Extreme Cacao,B. Hayes,0.0,0.9999178273764571,1,0
+2015-11-29,Kuurne,7,Pompano Mick,A. D'Haese,0.0,0.998662393009948,1,0
+2021-05-13,Savigny-sur-Braye,13,Girl Venesi,B. Pecharman,0.0,0.9434094929981325,1,0
+2017-11-03,Le Croisé-Laroche,10,Cœur de Loup,P. Daugeard,8.5,0.05901766041427073,0,1
+2023-12-03,Khemisset,18,NAMLATE OULGHES,AT. TAFTAFI,0.0,0.9979431224295123,1,0
+2022-01-14,Fairview,13,Namaqualand,K. Brewer,10.0,0.1764822750877971,0,0
+2017-08-05,Del Mar,7,Terra's Angel,S. Risenhoover,0.0,0.9996333526913358,1,1
+2015-03-21,Bendigo,15,Tan Tat Diamond,D. Stackhouse,0.0,0.9921671702185723,1,0
+2020-05-19,Romme,15,Hvalstad Gyda,U. Eriksson,0.0,0.9999063994360462,1,1
+2017-04-24,Avenches,8,Master of Optimism,Mme S. Casanova,0.0,0.9752386432022956,1,0
+2019-04-14,La Roche-sur-Yon,11,Fun du Lemo,M. Delage,7.0,0.2321841057399365,0,1
+2023-06-23,Saint-Cloud,10,Miss Dabirsim,C. Lecoeuvre,21.0,0.028689214691264623,0,0
+2021-01-06,Happy Valley,10,Cinquante Cinq,M. Chadwick,0.0,0.9997572435281237,1,0
+2018-02-13,Jägersro,9,Divine Ducal,M. Waldmüller,0.0,0.9999888069668512,1,0
+2023-10-08,Khemisset,12,LAMHAYDI,ZE. EL BRIOUIL,0.0,0.9997775192205656,1,0
+2018-03-04,Rome,6,Damocles,S. Basile,0.0,0.9996092299772377,1,1
+2017-04-01,Avignon,13,Cigaro des Iles,P. Labrousse,0.0,0.9937184132485578,1,0
+2020-07-24,Syracuse,10,Tabor Caf,L. La Rosa,0.0,0.9999721420220777,1,0
+2021-06-10,Visby,14,Duke Snapper,P. Karlsson,0.0,0.9999515225509715,1,1
+2020-06-22,Solanget,15,Marlon Donvici,P. Linderoth,0.0,0.9999742797792437,1,0
+2022-03-06,Eskilstuna,12,Farnese Boko,K. Gorski,0.0,0.9992765997882005,1,0
+2014-08-10,Baden,7,Rebell Venus,K. Dresel,0.0,0.9953263785155566,1,0
+2017-08-24,Montecatini,8,Time Taf,M. Angeloni,0.0,0.9999859652329981,1,0
+2022-10-12,Enghien,13,Iletro Julry,JP. Gauvin,21.0,0.06171185314371052,0,0
+2023-08-23,Lalla Malika,15,NAYYAR AL BORAQ,AA. ARROMALI,0.0,0.9999926812083705,1,0
+2023-08-06,Sainte-Marie-du-Mont,14,I Love William,A. Bodin,0.0,0.9281078790546208,1,0
+2019-04-12,Hagmyren,12,Bältra Selene,T. Jansson,0.0,0.9999516492863012,1,0
+2022-02-06,Baléares - Manacor,11,Ice Too Many,B. Jaume Cirer,0.0,0.9999881928598775,1,1
+2016-12-15,Toulouse,16,Ilulisset,N. Perret,5.8,0.1395877667371288,0,0
+2022-03-29,Boden,9,Ros Svarten,C. Mansson,0.0,0.9909284451799963,1,0
+2015-03-21,Las Piedras,8,Palafrenero,S. Fiorito,4.8,0.442864260354445,0,1
+2017-03-19,Gournay-en-Bray,13,Destiny Dream,K. Weska,0.0,0.9953176956901584,1,0
+2020-11-25,Solvalla,11,Tilda Express,RN. Skoglund,0.0,0.9999068092420967,1,1
+2018-03-04,Bologne,8,Vertudes,D. Nuti,0.0,0.9999658312584507,1,0
+2016-11-09,Caen,16,Daisy de Vouède,D. Brohier,9.5,0.1292039502695416,0,0
+2020-07-07,Pescara (San Giovanni),11,Bonito Feg,V. Gallo,0.0,0.9999553080950417,1,1
+2016-06-05,Arras,16,Veinard du Vilpion,V. Boulogne,0.0,0.9752012505542883,1,0
+2018-12-17,Syracuse,12,Ultrasonic Font,A. Pecoraro Jr,0.0,0.9999909654235718,1,0
+2023-05-06,Vermo,12,Rudebox,S. Raitala,0.0,0.9950673035600949,1,0
+2021-09-20,Fairyhouse,7,The Entertainer,JA. Heffernan,0.0,0.9996559171106625,1,0
+2019-04-07,Arjang,11,Great Winner,M. Jakobsson,0.0,0.9998753921707096,1,0
+2015-11-28,Paris-Vincennes,18,Bilfie de Guez,JM. Bazire,2.0,0.8966465593478755,1,0
+2021-01-15,Gulfstream Park,9,Globaltroublecoco,C. Torres,0.0,0.999565418326435,1,1
+2019-10-06,Angoulême,13,Fuego d'Iraty,JP. Monclin,0.0,0.9424984066503197,1,1
+2019-12-29,Bologne,9,Zibellino Matto,S. Lago,0.0,0.9999860769586,1,0
+2021-08-21,Baléares - Sant Rafel,7,Apparizione Mail,J. Planells Torres,0.0,0.9999395360493396,1,1
+2015-08-01,Pompadour,7,Holyc,E. Révolte,12.0,0.1582129042829939,0,1
+2020-09-12,Musselburgh,11,Josiebond,S. James,0.0,0.9999045582810548,1,1
+2019-06-02,Gelsenkirchen,8,Pietro Lombardi,Mlle S. Baruffolo,0.0,0.9986159737240372,1,1
+2023-05-02,Taranto,11,Smile Wf,G. Gentile,0.0,0.9999723390120705,1,0
+2014-07-14,Chinon,13,Texas du Juillé,B. Rochard,0.0,0.9967969212001745,1,0
+2023-03-19,Vire,16,Héla des Landes,Mlle C. Roger,0.0,0.9778682096699738,1,0
+2021-02-22,Paris-Vincennes,9,Invictus Le Grand,PY. Verva,4.3,0.12245234196641584,0,1
+2017-04-09,Naples,11,Urka Jet,S. Calise,0.0,0.9999875150561301,1,0
+2022-10-16,Nantes,16,Garde à Vous Cossé,A. Leduc,59.0,0.09641605614803402,0,0
+2023-03-28,Huntingdon,11,Cape Cornwall Rose,J. Davies,0.0,0.9999848882433814,1,0
+2021-07-19,Halmstad,12,Backdraft,K. Ecce,0.0,0.9986948098026187,1,0
+2015-04-09,Cholet,10,Jusqu'à Toi,FX. Bertras,16.0,0.13540249186359823,0,0
+2022-06-06,Villedieu-les-Poêles,11,Iouky des Landes,P. Deroyand,0.0,0.9806388480788086,1,0
+2018-03-29,Foggia - Castelluccio Dei Sauri,13,Savoir,A. Perna,0.0,0.9999926812083705,1,0
+2022-10-01,Amiens,12,Iris Lorillière,S. Serpin,323.0,0.0949767666995246,0,0
+2017-07-02,Castera-Verduzan,13,Ceimeirita,M. Mingant,0.0,0.9943146879965252,1,0
+2014-05-13,Chantilly,15,Portland River,F. Prat,37.0,0.20841813938285556,0,0
+2020-11-04,Nottingham,7,Main Fact,BA. Curtis,0.0,0.9999039942344351,1,1
+2016-05-31,La Capelle,16,Delmonica,A. Muidebled,22.0,0.10671699830966402,0,0
+2020-01-20,Farjestad,9,Elsås Ravn,M. Ivarsson,0.0,0.9999867553795341,1,1
+2022-10-30,Chantilly,9,Showay,A. Crastus,12.0,0.023909965097355722,0,0
+2015-06-21,Milan,9,Arte Volante,C. Fiocchi,0.0,0.9999463297682819,1,0
+2014-05-22,Nancy,15,Battante,M. Seidl,34.0,0.18462951011176426,0,0
+2022-05-28,Hyères,9,Glitter Jiel,Mme I. Metzemaekers,2.8,0.2639505298996093,0,1
+2023-06-21,Wexford,12,Dinoland,J. Mc Garvey,0.0,0.9999942818115745,1,0
+2023-07-11,Jägersro,10,Staro Quentin,A. Jacobsen,0.0,0.9999372430459043,1,0
+2019-07-14,San Sebastian,12,Amoët,R. Ramos Seranno,0.0,0.9903299425086212,1,0
+2018-11-11,Marseille-Borély,8,Press Officer,Mlle M. Vélon,11.0,0.09202249284384027,0,0
+2015-06-14,Martinique (Carrère),5,Cœur de Perle,RA. Latchman,0.0,0.9999805787573419,1,0
+2020-02-05,Varese,7,I Believe In You,AD. Migheli,0.0,0.9999420640179549,1,1
+2015-10-31,Rome,10,Pacha Dei Greppi,A. Greppi,0.0,0.9998810366463969,1,0
+2022-03-27,San Isidro,13,Sallustia,O. Alderete,0.0,0.9872399855567431,1,0
+2017-08-13,Saint-Jean-de-Monts,13,Brigand du Méleuc,F. Perron,0.0,0.9886521305811172,1,1
+2018-02-16,Son Pardo - Majorque,16,Vip Téjy,C. Cruellas Munar,99.0,0.234672898236793,0,0
+2021-03-07,Saint-Brieuc,15,Elite de Bellouet,JS. Lebrun,0.0,0.9874748552009371,1,0
+2019-11-08,Rome,12,Brigant Ekam,C. Di Napoli,0.0,0.9997104256528744,1,0
+2017-06-05,Ebreichsdorf (Magna Racino),10,Ellysee Mo,T. Holmgren,0.0,0.9999840251251509,1,0
+2015-06-28,Segré,18,Balèze d'Annepière,Y. Roblot,0.0,0.9665381630581125,1,0
+2021-05-09,Strasbourg,10,King Gold,T. Trullier,0.0,0.909974085411341,1,1
+2015-10-29,Reims,14,Ninepoints Lucy,G. Gelormini,6.0,0.09103967249502126,0,1
+2015-05-30,Solvalla,11,Quick Fix,A. Kolgjini,0.0,0.9999501107021683,1,0
+2021-02-07,Paris-Vincennes,11,Excellent Day,E. Raffin,22.0,0.13151993060768435,0,1
+2023-04-24,Naas,11,Show Yourself,A. Slattery,0.0,0.9999870513646405,1,0
+2022-07-10,Taranto,9,Clever Feet Lf,V. D'Alessandro Jr,0.0,0.9999886728567577,1,1
+2021-10-24,Hanovre,11,Tayfun,W. Panov,0.0,0.9765637051048178,1,0
+2014-01-05,Florence,8,Riviera As,M. Di Nicola,0.0,0.9999923635497264,1,1
+2015-08-01,Goodwood,27,Zanetto,W. Buick,0.0,0.9987950580088654,1,0
+2023-09-17,Blain-Bouvron-Le Gâvre,14,Junior d'Avran,H. Lecoq,0.0,0.9889783839719509,1,0
+2019-01-11,Paris-Vincennes,11,Facto Turgot,A. Abrivard,4.5,0.13631068951623437,0,0
+2020-09-17,Tramore,13,Ventnor,A. Short,0.0,0.9999290526443062,1,0
+2023-07-21,Newmarket,11,Moonlit Cloud,T. Marquand,0.0,0.9997097297285845,1,0
+2022-01-07,Son Pardo - Majorque,10,Fanfan d'Escafi,E. Perpinan Martin,89.0,0.0908638099934987,0,1
+2018-02-18,Halmstad,6,Santiago Kyu,E. Ceka,0.0,0.9999470850933514,1,0
+2023-07-16,Klosterskogen,9,U.R. Fryd,PV. Kals,0.0,0.9976033927674703,1,0
+2021-05-08,Royan-la Palmyre,15,Enjeera,Mlle M. Bodin,0.0,0.9698343023184473,1,0
+2014-03-22,Lingfield,14,Mirsaale,J. Fanning,0.0,0.9999958454245195,1,0
+2023-08-19,Villeréal,14,Idéal Fonguillères,DG. Chavatte,0.0,0.9718884103504007,1,0
+2017-06-11,Montluçon-Néris-les-Bains,15,Diva Sautonne,M. Gauvin,0.0,0.9931708517257419,1,0
+2018-09-15,Wolvega,8,Comète de Baffais,R. Wester,18.0,0.15968309670590888,0,0
+2017-10-14,Syracuse,5,Barby Cat,F. Bossa,0.0,0.9999831173802509,1,0
+2014-04-04,Lyon-La Soie,16,Régina,A. Blondeau,38.0,0.14577888131585987,0,0
+2014-05-25,Toulouse,10,Rakella,JB. Hamel,29.0,0.14544870891495817,0,0
+2019-08-25,Granville,13,Galion Besp,E. Garnier,0.0,0.9958352667880067,1,0
+2019-05-01,Hanovre,14,Zuckerfee,J. Bojko,0.0,0.9895968473191691,1,0
+2023-08-13,Amal,11,Kenzo Flevo,M. Handfast,0.0,0.9939742232359482,1,0
+2016-10-04,Salon-de-Provence,10,Fantastic Love,A. Crastus,4.0,0.11173371686925579,0,0
+2014-03-11,Vienne Krieau,9,Hokuspokus,T. Pribil,7.3,0.3195169912374657,0,0
+2023-03-29,Lalla Malika,13,BOGADIR LKHEIR,OL. LAKJAL,0.0,0.9999926812083705,1,0
+2022-09-18,Mons,10,Nash Mom,F. Neirinck,0.0,0.9943651269157929,1,1
+2019-12-01,Amiens,12,Garlic Bread,PY. Verva,0.0,0.9653878334222309,1,0
+2019-06-06,Lyon-Parilly,8,Black Canyon,P. Foret,12.0,0.12208433917641205,0,0
+2020-10-09,Feurs,14,Fortune Darche,T. Goujon,46.0,0.07841167481526361,0,0
+2019-01-17,Meknes,19,Haymar,R. Hamdaoui,0.0,0.9999915068866152,1,0
+2021-10-13,Turin,13,Dardo Degli Dei,HE. Bondo,0.0,0.9999541017367071,1,1
+2023-09-29,Anfa,17,MIMOZA,II. ICHTIM,0.0,0.9999926812083705,1,0
+2023-03-28,Concepcion,10,Prosecco Wine,L. Perez Burgos,0.0,0.9857887739711537,1,0
+2015-09-28,Argentan,14,Satawan Al Ashai,E. Monfort,9.0,0.14155114178301553,0,0
+2023-05-08,Khemisset,13,MEKHBAT,AR. RAYI,0.0,0.9997717079122633,1,1
+2014-07-23,Vichy,10,Jarada,PC. Boudot,2.5,0.7882451908001067,1,1
+2014-08-10,Pérou,9,El Shard,J. Reyes Moncada,0.0,0.9999856427507022,1,0
+2016-04-06,El Jadida,14,Fast Héroïne,A. Daouf,0.0,0.9999923724927757,1,0
+2021-11-14,Meslay-du-Maine,16,Inra d'Ariane,JP. Monclin,9.0,0.04809357964417843,0,1
+2014-11-16,Abu Dhabi,9,Munaaf,S. Al Mazrouei,0.0,0.9999741558810864,1,0
+2014-07-24,Vichy,18,Amaroc,A. Hamelin,8.5,0.07575205346298325,0,0
+2018-01-28,Cagnes-sur-Mer,13,Boromir de Bazoche,JJ. Barre,0.0,0.9904283855581774,1,0
+2023-03-18,Harstad,8,Muscles'n Genius,J. Ostman,0.0,0.9998145918819192,1,0
+2019-11-24,Bologne,8,Naldo Benal,M. Becci,0.0,0.9999480274261532,1,1
+2018-01-09,Taunton,14,Not a Role Model,D. Bass,0.0,0.999819013216902,1,0
+2022-02-04,Odense,10,Corniglia,K. Ecce,0.0,0.9987425279957691,1,1
+2023-06-16,Anfa,14,CHIHAB ZEMMOUR,OM. MOUNIAR,0.0,0.9999926812083705,1,1
+2021-07-01,Orebro,10,Marengo,MJ. Andersson,0.0,0.9862902888313111,1,0
+2018-06-27,Bjerke,8,Tuileries,Mme JU. Overaasen,0.0,0.9998789479971774,1,1
+2023-11-24,Anfa,16,ASSIMA FAL,AM. MOUGHAT,0.0,0.9999557151917245,1,0
+2023-12-30,Gavle,12,Mery Bolden,M. Hansson,0.0,0.9999797111631823,1,0
+2020-02-22,Chile,15,Senora Maria Jesus,W. Leon Hernandez,0.0,0.9949874937500026,1,1
+2014-10-26,Nantes,18,Aulis du Courtille,JM. Baudouin,36.0,0.09287706532733868,0,0
+2014-04-06,Avignon,16,Ripsos de Fa,D. Alexandre,0.0,0.9977874651436452,1,0
+2023-11-02,Visby,10,Percy Jackson,C. Cracchiolo,0.0,0.9857708100829218,1,0
+2019-08-03,Lahti,11,Sheikki,A. Hammar,0.0,0.9999028143635504,1,1
+2023-06-14,Bornholm,6,Bornholm Nu,J. Jessen,0.0,0.9943698825293947,1,0
+2021-06-08,Hagmyren,10,Alfina,LE. Karlsson,0.0,0.9935921487153301,1,1
+2015-05-24,Angers,12,Best du Châtelet,L. Groussard,11.0,0.10484991791447286,0,0
+2014-07-14,Vittel,12,Kunst Basel,A. Lemaitre,0.0,0.9653613821628337,1,0
+2020-07-30,Vichy,10,Waldenon,V. Seguy,18.0,0.11696603338613326,0,1
+2021-09-07,Beaumont-de-Lomagne,15,Diamant du Parc,P. Geray,16.0,0.07298267507039911,0,1
+2020-12-23,Cagnes-sur-Mer,16,Vivalta,D. Salmon,180.0,0.08747766280173859,0,0
+2018-11-08,Meknes,12,Ettaoufiq Bouznika,Z. Madihi,0.0,0.9999618558652995,1,0
+2023-08-23,Lalla Malika,17,EPONA ALJIYAD,AF. FADDOUL,0.0,0.9999463999500284,1,0
+2019-07-30,Bornholm,10,Von Gladiator,F. Mikkelsen,0.0,0.9999697564988979,1,0
+2018-12-05,Aby,8,Digital Furcola,A. Svanstedt,0.0,0.9999778357021385,1,0
+2016-05-01,Dielsdorf,9,Heloagain,K. Fox,0.0,0.9999733272037603,1,1
+2023-02-17,U.A.E - Meydan,16,Ventura Rebel,R. Dawson,0.0,0.9978262280233998,1,1
+2020-05-22,Saint-Malo,16,Daraghiu Jeep,N. Desmarres,0.0,0.9798139607909776,1,0
+2023-03-11,Wolverhampton,10,Goose Rock,D. Muscutt,0.0,0.9998135970252535,1,0
+2018-02-17,Graignes,14,Eden Black,A. Naveau,110.0,0.09739528251842283,0,0
+2020-08-20,Killarney,6,Sean Says,PT. Enright,0.0,0.9999755228788115,1,1
+2023-10-05,Lingfield,12,Milliterries,C. Shepherd,0.0,0.9999124013826715,1,1
+2023-02-23,Straubing,9,Figaro Juvel,L. Strobl,17.0,0.1015488223045411,0,0
+2016-03-22,Mons,10,Crack Loudettes,T. Lauwers,223.0,0.2812206499016,0,0
+2019-09-22,Merano,7,Mission of Peace,A. Ferramosca,0.0,0.9998533406055834,1,0
+2018-06-25,Caen,18,France America,T. Le Beller,3.5,0.23631016869657226,0,1
+2019-05-19,Arjang,12,Frick,OJ. Ostre,0.0,0.9999426758815226,1,1
+2023-11-20,Marrakech,16,MOUCHARA FAL,AA. AMEUR,0.0,0.9973702136053397,1,0
+2015-08-15,Miramont-de-Guyenne,12,Cap Cartery,G. Muthular,0.0,0.9861704057405345,1,0
+2015-04-05,Châtelaillon-La Rochelle,16,Trésor Kerquilven,Q. Champenois,0.0,0.992033309757677,1,0
+2021-06-03,Leopardstown,12,Tauran Shaman,S. Foley,0.0,0.9998556215387882,1,1
+2018-01-26,Huntingdon,14,Zaydanides,S. Twiston-Davies,0.0,0.9999767142398709,1,0
+2023-10-22,Saumur-Verrie,17,Incertain Lancelot,F. Letonturier,0.0,0.9630915442068507,1,0
+2021-12-27,Argentan,16,Galine Erca,P. Delacour,45.0,0.03862683039365083,0,0
+2020-08-26,Turin,7,Cechov,G. Salacone,0.0,0.9999849666076023,1,1
+2023-08-01,Galway,11,Nelda,S. Foley,0.0,0.9999563028061084,1,1
+2018-09-30,Paris-Vincennes,16,Anza du Carbonel,F. Blandin,78.0,0.11777765970566925,0,0
+2016-08-24,Stratford-on-Avon,6,Barman,NW. De Boinville,0.0,0.9999719123804202,1,1
+2017-02-26,Amiens,14,Vizzario,G. Houel,14.0,0.10451496091455828,0,1
+2021-01-26,Naples,8,Capunka,F. Cincinnato,0.0,0.9999849960478187,1,1
+2017-05-03,Lyon-La Soie,15,Caesarus d'Ela,S. Peltier,21.0,0.08804020185618286,0,1
+2023-09-28,Southwell,10,Sonnet Star,C. Hutchinson,0.0,0.9999890448902687,1,1
+2022-07-28,Oviken,12,Per Viking,P. Linderoth,0.0,0.992581568726623,1,1
+2016-08-28,Chilivani,9,Ursula,G. Sanna,0.0,0.9999625480624804,1,0
+2021-03-26,Aarhus,6,Joke Cd,B. Jörgensen,0.0,0.9998823938070237,1,1
+2021-08-09,Skelleftea,9,Elviz,P. Wikström,0.0,0.9999863070983281,1,0
+2015-01-11,Cagnes-sur-Mer,15,Vougeot du Mouriez,AA. Chavatte,65.0,0.1581367057631345,0,0
+2014-02-16,Kuurne,11,Canavaro Meadow,Mlle L. Celis,0.0,0.9988185716248971,1,1
+2017-07-05,Amal,13,Perfect Broline,BE. Daggert,0.0,0.9999878327147742,1,1
+2017-01-02,Pontchâteau,14,Diva du Boly,YR. Le Mée,5.5,0.14967517629429772,0,1
+2019-08-09,Son Pardo - Majorque,12,Elite de Sa Cova,M. Vich Capo,0.0,0.9983208042903509,1,0
+2018-04-26,Kempton,14,Polly's Pursuit,N. Curtis,0.0,0.9999594970142069,1,0
+2019-02-21,Umaker,14,Lemmy,OA. Lindqvist,0.0,0.9999055558462194,1,0
+2021-09-25,Market Rasen,8,Switch Partner,F. Gillard,0.0,0.9999763965812268,1,1
+2020-11-01,Charlottenlund,6,Faust Hovmand,B. Jörgensen,0.0,0.9874176810527162,1,0
+2021-07-21,Turin,8,Ciel Joyeuse,W. Lagorio,0.0,0.9998784239809718,1,0
+2019-12-09,Lingfield,10,Kalimotxo,PL. Jamin,0.0,0.9999528591382068,1,0
+2021-02-07,Agen,16,Défi de la Coudre,F. Gence,28.0,0.11100833113820478,0,0
+2015-08-08,Del Mar,8,Elektrum,V. Espinoza Malvas,0.0,0.9984780519703145,1,1
+2014-08-24,Jullianges,14,Ursane d'Eam,R. Grosbot,0.0,0.9901310945175967,1,0
+2023-09-25,Marseille-Vivaux,15,Ibis de Feu,D. Cinier,4.8,0.09074889851852194,0,0
+2017-02-26,Argentan,17,Call Boy Danover,AA. Barassin,0.0,0.9774666244843657,1,0
+2023-08-21,Anfa,18,MEZIANNA,RE. ERDALANE,0.0,0.9999926812083705,1,0
+2021-08-29,Bernay,12,Isa des Carreaux,A. Lamy,0.0,0.9385013250726084,1,0
+2021-01-14,Cagnes-sur-Mer,15,Fayette Dream,Mlle S. Blanchetière,5.0,0.15153734336147928,0,1
+2022-07-14,Guer-Coëtquidan,13,Ghost Light,JC. Beaufils,0.0,0.950061124812251,1,0
+2018-09-23,Cologne,7,Night Music,O. Murphy,0.0,0.9734365144988445,1,0
+2020-10-21,Bjerke,11,Sidonette Sid,K. Malmin,0.0,0.9995873908167696,1,0
+2014-11-14,Chantilly,17,Lucretia,T. Bachelot,8.9,0.09117150654635646,0,1
+2015-04-25,Vire,17,Vittoria France,T. Le Beller,2.0,0.927920442722916,1,0
+2022-10-15,San Isidro,13,Dlivery Por Johan,W. Pereyra,0.0,0.9838475274084996,1,0
+2021-03-27,Kempton,7,Otyrar,R. Havlin,0.0,0.9997012546427662,1,1
+2019-02-22,Paris-Vincennes,15,Cocotte Café,AA. Barassin,38.0,0.09708643456002093,0,0
+2014-02-20,Gulfstream Park,5,Helooksthepart,E. Trujillo,0.0,0.9989602024587215,1,0
+2016-07-30,Vichy,17,Gomera,N. Perret,6.0,0.14925904840377,0,0
+2023-04-14,Aintree,20,Gaoth Chuil,S. O'Callaghan,0.0,0.9924833823675939,1,0
+2017-08-06,Montier-en-Der,11,Emeraude Dairpet,J. Koubiche,0.0,0.9888107943144385,1,0
+2022-10-10,Nuillé-sur-Vicoin,13,Jingle Pass,F. Joseph,0.0,0.9745427831431398,1,0
+2019-01-10,Doha - Al Rayyan,8,Carab,M. Casamento,0.0,0.9988706694486664,1,0
+2018-03-27,Hereford,10,Frank N Fair,J. Bowen,0.0,0.9999748311476989,1,0

@@ -1,0 +1,67 @@
+{
+    "model_name": "random_forest_20250301_1118",
+    "timestamp": "2025-03-01 11:35:39",
+    "sample_size": 500,
+    "accuracy": 0.41,
+    "precision_class1": 0.2956989247311828,
+    "recall_class1": 0.7692307692307693,
+    "f1_class1": 0.4271844660194175,
+    "threshold_analysis": {
+        "0.3": {
+            "n_predictions": 378,
+            "precision": 0.29365079365079366
+        },
+        "0.4": {
+            "n_predictions": 375,
+            "precision": 0.296
+        },
+        "0.5": {
+            "n_predictions": 372,
+            "precision": 0.2956989247311828
+        },
+        "0.6": {
+            "n_predictions": 368,
+            "precision": 0.29347826086956524
+        },
+        "0.7": {
+            "n_predictions": 366,
+            "precision": 0.2923497267759563
+        },
+        "0.8": {
+            "n_predictions": 365,
+            "precision": 0.29041095890410956
+        }
+    },
+    "type_analysis": {
+        "Attel\u00e9": {
+            "n_courses": 263,
+            "precision": 0.30456852791878175
+        },
+        "Plat": {
+            "n_courses": 166,
+            "precision": 0.3050847457627119
+        },
+        "": {
+            "n_courses": 18,
+            "precision": 0.16666666666666666
+        },
+        "Mont\u00e9": {
+            "n_courses": 18,
+            "precision": 0.2
+        },
+        "Haies": {
+            "n_courses": 23,
+            "precision": 0.3
+        },
+        "Steeple-chase": {
+            "n_courses": 12,
+            "precision": 0.3333333333333333
+        }
+    },
+    "confusion_matrix": {
+        "true_positives": 110,
+        "false_positives": 262,
+        "true_negatives": 95,
+        "false_negatives": 33
+    }
+}
